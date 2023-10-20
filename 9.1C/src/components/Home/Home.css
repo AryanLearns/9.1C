@@ -1,0 +1,44 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333; 
+    padding: 10px 20px; 
+    color: white; 
+  }
+  
+  .center {
+    display: flex;
+    align-items: center;
+  }
+  
+  h3 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  #search-bar {
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    width: 1000px; 
+    margin-right: 20px; 
+  }
+  
+  .emailbutton {
+    background-color: #161616; 
+    color: rgb(201, 224, 28);
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: rgb(249, 224, 0);
+    margin-left: 10px; 
+  }
